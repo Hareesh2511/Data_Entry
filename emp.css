@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(250,200,190);
+    color: red;
+    text-align: center;
+}
+table{
+    margin: auto;
+    border: 3px solid red;
+}
+th, td{
+    padding: 30px;
+}
