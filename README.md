@@ -1,1 +1,2 @@
-![Employees Data](https://raw.githubusercontent.com/C:\Users\chint\OneDrive\Pictures\Screenshots\Data Table.png)
+![Dashboard Preview](https://raw.githubusercontent.com/hareesh/project/main/screenshots/DataTable.png)
+
